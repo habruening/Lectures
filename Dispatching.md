@@ -360,7 +360,7 @@ int main(){
 > A "method" is a way of doing something.
 
 
-> Wikipedia
+> Wikipedia:
 >
 > A method in object-oriented programming (OOP) is a procedure associated with a message and an object.
 
@@ -368,4 +368,4 @@ Object Oriented languages regards a method as a function, with single dispatchin
 
 For some traditional reasons the syntax for methods is classes and objects. The single dispatching argument is the `this` pointer in Java and C++ and the `self` object in Python.
 
-In other programming languages (Lisp, Dylan, Julia), a method is a more general concept: A function with dispatching in all arguments. A method represents a modular part of the behavior of a generic function.
+In a very few other programming languages (Lisp, Dylan, Julia), a method is a more general concept: A function with dispatching in all arguments. A method represents a modular part of the behavior of a generic function.
